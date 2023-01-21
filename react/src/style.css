@@ -1,0 +1,38 @@
+#formArea{
+    text-align: center;
+}
+.container{
+    background-color: #E1D7C6;
+}
+*{
+    background-color: #ECE8DD;
+}
+.form-control{
+    background-color:#579BB1 ;
+}
+.form-submit{
+    background-color:#579BB1 ;
+
+}
+.form-label{
+    font-weight: bold; 
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+  
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 5;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
+
+/* Color Palette I used -> https://colorhunt.co/palette/579bb1e1d7c6ece8ddf8f4ea */
