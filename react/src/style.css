@@ -17,6 +17,13 @@
 .form-label{
     font-weight: bold; 
 }
+
+/*
+In a part of the project, 
+I was working on a tooltip that produces texts like 
+"delete", "complete" when you hover over the icons. 
+Then I canceled this feature. This place will be held
+*/
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 120px;
